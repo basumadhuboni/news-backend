@@ -10,3 +10,4 @@ newspaper3k
 requests
 uvicorn
 gunicorn
+lxml_html_clean
